@@ -1,0 +1,96 @@
+circle: 0 6 yellow
+square: 100 5 yellow
+square: 101 5 red
+rectangle: 200 7 8 yellow
+triangle: 300 8 4 4 green
+square: 102 5 yellow
+triangle: 301 1 5 1 red
+circle: 1 8 black
+square: 103 5 yellow
+circle: 2 9 green
+circle: 3 2 yellow
+triangle: 302 5 1 3 black
+square: 104 5 red
+triangle: 303 1 3 2 blue
+triangle: 304 5 5 1 black
+rectangle: 201 7 7 yellow
+square: 105 5 green
+triangle: 305 1 7 4 red
+circle: 4 9 green
+circle: 5 1 red
+circle: 6 3 red
+triangle: 306 2 6 6 red
+circle: 7 1 yellow
+circle: 8 9 green
+rectangle: 202 8 2 green
+triangle: 307 1 1 7 yellow
+triangle: 308 8 6 2 black
+circle: 9 9 blue
+rectangle: 203 1 4 yellow
+square: 106 5 black
+square: 107 5 green
+circle: 10 1 red
+circle: 11 3 green
+triangle: 309 5 9 9 red
+square: 108 5 black
+circle: 12 5 green
+triangle: 310 4 8 6 black
+circle: 13 2 blue
+circle: 14 3 red
+triangle: 311 4 7 9 green
+circle: 15 2 red
+circle: 16 3 yellow
+square: 109 5 black
+triangle: 312 4 1 8 green
+triangle: 313 8 2 3 red
+rectangle: 204 5 1 blue
+triangle: 314 9 2 4 green
+rectangle: 205 7 6 yellow
+circle: 17 8 green
+triangle: 315 8 9 9 green
+circle: 18 7 red
+triangle: 316 4 3 5 green
+triangle: 317 2 8 2 green
+circle: 19 1 black
+circle: 20 6 green
+triangle: 318 5 8 8 black
+triangle: 319 2 1 8 green
+triangle: 320 7 2 7 red
+triangle: 321 3 2 2 blue
+rectangle: 206 7 8 yellow
+triangle: 322 3 1 3 black
+triangle: 323 6 5 3 black
+rectangle: 207 2 7 black
+rectangle: 208 7 7 black
+rectangle: 209 8 8 black
+triangle: 324 8 2 1 red
+circle: 21 4 green
+rectangle: 210 9 1 blue
+circle: 22 2 black
+circle: 23 6 green
+rectangle: 211 8 6 red
+circle: 24 3 blue
+circle: 25 9 yellow
+circle: 26 3 black
+circle: 27 8 green
+rectangle: 212 7 5 yellow
+circle: 28 6 black
+circle: 29 8 green
+circle: 30 4 black
+rectangle: 213 1 4 blue
+circle: 31 6 yellow
+circle: 32 4 red
+rectangle: 214 1 1 blue
+rectangle: 215 6 6 black
+circle: 33 8 green
+circle: 34 3 green
+circle: 35 2 yellow
+rectangle: 216 1 8 black
+circle: 36 5 blue
+circle: 37 1 blue
+circle: 38 7 blue
+circle: 39 4 red
+circle: 40 8 green
+circle: 41 5 green
+circle: 42 3 black
+circle: 43 7 yellow
