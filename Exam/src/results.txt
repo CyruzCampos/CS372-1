@@ -1,0 +1,5 @@
+Read from the file correctly 20/20
+Implement class hierarchy correctly 5/20 -- the class hierarchy for this exam is largely missing
+Populate appropriate data structures with shape data 15/20 -- you're collecting the data, but not in appropriate classes
+Show list of shapes correctly 15/20 -- the toString() needs to be over-ridden
+Show specific shape properties correctly 20/20
