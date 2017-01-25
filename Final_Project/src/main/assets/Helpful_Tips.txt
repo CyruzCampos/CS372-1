@@ -1,0 +1,17 @@
+                            Welcome to Mathiac
+
+1. Decide on which subject you wish to work on.
+
+2. You are then given five different questions.
+
+3. Do your best to solve each question.
+
+4. When you are done, you will see your score.
+
+5. Your score will be saved as a high score.
+
+6. Try to beat your friends and best their score.
+
+7. Try to even beat your own score.
+
+8. Have fun and good luck mathematician!
